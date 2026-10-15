@@ -1,0 +1,203 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Total_Amount,City,Payment_Method
+ORD0001,2026-02-05,Mouse,Electronics,1,650,650,Delhi,UPI
+ORD0002,2026-03-28,Monitor,Electronics,1,9500,9500,Kolkata,Card
+ORD0003,2026-01-04,Water Bottle,Accessories,1,350,350,Kolkata,UPI
+ORD0004,2026-03-19,Notebook,Stationery,5,80,400,Kolkata,Card
+ORD0005,2026-02-23,Notebook,Stationery,5,80,400,Delhi,Cash
+ORD0006,2026-01-21,Pen,Stationery,1,20,20,Bangalore,Cash
+ORD0007,2026-01-28,Pen,Stationery,2,20,40,Mumbai,UPI
+ORD0008,2026-01-13,Mouse,Electronics,4,650,2600,Mumbai,Cash
+ORD0009,2026-02-28,Pen,Stationery,1,20,20,Kolkata,Cash
+ORD0010,2026-02-07,Mouse,Electronics,5,650,3250,Mumbai,Card
+ORD0011,2026-01-06,Notebook,Stationery,1,80,80,,Cash
+ORD0012,2026-01-13,Mouse,Electronics,2,650,1300,Bangalore,Cash
+ORD0013,2026-01-21,Headphones,Electronics,3,2200,6600,Mumbai,Cash
+ORD0014,2026-03-31,Notebook,Stationery,3,80,240,Kolkata,Card
+ORD0015,2026-02-01,Monitor,Electronics,5,9500,47500,Delhi,Cash
+ORD0016,2026-03-23,Water Bottle,Accessories,3,350,1050,Delhi,Card
+ORD0017,2026-01-30,Backpack,Accessories,1,1500,1500,Kolkata,Cash
+ORD0018,2026-01-09,Water Bottle,Accessories,3,350,1050,Delhi,Card
+ORD0019,2026-03-25,Backpack,Accessories,2,1500,3000,Bangalore,Cash
+ORD0020,2026-02-03,Headphones,Electronics,2,2200,4400,Delhi,UPI
+ORD0021,2026-02-24,Pen,Stationery,-2,20,100,Bangalore,Cash
+ORD0022,2026-03-07,Notebook,Stationery,2,80,160,Bangalore,UPI
+ORD0023,2026-01-20,Keyboard,Electronics,1,1200,1200,Delhi,Card
+ORD0024,2026-01-09,Water Bottle,Accessories,5,350,1750,Bangalore,Cash
+ORD0025,2026-02-02,Headphones,Electronics,5,2200,11000,Kolkata,Card
+ORD0026,2026-02-04,Mouse,Electronics,5,650,3250,Mumbai,UPI
+ORD0027,2026-01-21,Pen,Stationery,4,20,80,Bangalore,UPI
+ORD0028,2026-01-23,Pen,Stationery,5,20,100,Kolkata,Card
+ORD0029,2026-03-19,Pen,Stationery,5,20,100,Delhi,UPI
+ORD0030,2026-03-11,Backpack,Accessories,2,1500,3000,Kolkata,Card
+ORD0031,2026-01-03,Backpack,Accessories,4,1500,99999,Kolkata,Cash
+ORD0032,2026-01-08,Pen,Stationery,2,20,40,Delhi,Card
+ORD0033,2026-03-04,Mouse,Electronics,1,650,650,Kolkata,Card
+ORD0034,2026-03-26,Monitor,Electronics,2,9500,19000,Bangalore,Card
+ORD0035,2026-03-09,Monitor,Electronics,3,9500,28500,Bangalore,UPI
+ORD0036,2026-02-21,Notebook,Stationery,3,80,240,Mumbai,Cash
+ORD0037,2026-02-01,Headphones,Electronics,1,2200,2200,Delhi,UPI
+ORD0038,2026-03-17,Backpack,Accessories,1,1500,1500,Delhi,Card
+ORD0039,2026-01-10,Notebook,Stationery,1,80,80,Kolkata,UPI
+ORD0040,2026-02-12,Mouse,Electronics,1,650,650,Kolkata,Card
+ORD0041,2026-03-27,,Stationery,3,80,240,Bangalore,UPI
+ORD0042,2026-03-15,Monitor,Electronics,5,9500,47500,Bangalore,UPI
+ORD0043,2026-01-25,Headphones,Electronics,4,2200,8800,Kolkata,UPI
+ORD0044,2026-02-24,Water Bottle,Accessories,3,350,1050,Bangalore,Cash
+ORD0045,2026-01-08,Keyboard,Electronics,1,1200,1200,Bangalore,Card
+ORD0046,2026-02-01,Backpack,Accessories,1,1500,1500,Delhi,UPI
+ORD0047,2026-02-24,Headphones,Electronics,2,2200,4400,Delhi,Cash
+ORD0048,2026-01-10,Headphones,Electronics,2,2200,4400,Bangalore,Card
+ORD0049,2026-03-25,Mouse,Electronics,1,650,650,Kolkata,UPI
+ORD0050,2026-02-22,Notebook,Stationery,2,80,160,Bangalore,Cash
+ORD0051,2026-01-08,Notebook,Stationery,4,80,320,Delhi,Cash
+ORD0052,2026-02-03,Keyboard,Electronics,4,1200,4800,Bangalore,Cash
+ORD0053,2026-03-26,Water Bottle,Accessories,5,350,1750,Bangalore,UPI
+ORD0054,2026-01-28,Notebook,Stationery,3,80,240,Kolkata,Card
+ORD0055,2026-01-08,Keyboard,Electronics,3,1200,3600,Kolkata,Card
+ORD0056,2026-03-09,Headphones,Electronics,5,2200,11000,Delhi,UPI
+ORD0057,2026-01-09,Mouse,Electronics,2,650,1300,Kolkata,Card
+ORD0058,2026-01-16,Notebook,Stationery,4,80,320,Delhi,Card
+ORD0059,2026-01-11,Keyboard,Electronics,5,1200,6000,Bangalore,Card
+ORD0060,2026-01-27,Backpack,Accessories,3,1500,4500,Mumbai,UPI
+ORD0061,2026-01-17,Pen,Stationery,4,20,80,Mumbai,Cash
+ORD0062,2026-01-02,Backpack,Accessories,1,1500,1500,Bangalore,Card
+ORD0063,2026-03-10,Mouse,Electronics,1,650,650,Delhi,Card
+ORD0064,2026-02-14,Pen,Stationery,2,20,40,Kolkata,UPI
+ORD0065,2026-01-21,Backpack,Accessories,3,1500,4500,Bangalore,Card
+ORD0066,2026-03-25,Pen,Stationery,5,20,100,Kolkata,Card
+ORD0067,2026-01-18,Pen,Stationery,1,20,20,Mumbai,UPI
+ORD0068,2026-01-20,Mouse,Electronics,5,650,3250,Mumbai,Cash
+ORD0069,2026-01-27,Notebook,Stationery,3,80,240,Mumbai,Card
+ORD0070,2026-01-07,Headphones,Electronics,3,2200,6600,Kolkata,Card
+ORD0071,2026-01-06,Water Bottle,Accessories,3,350,1050,Kolkata,Cash
+ORD0072,2026-01-21,Monitor,Electronics,3,9500,28500,Bangalore,Card
+ORD0073,2026-01-02,Water Bottle,Accessories,5,350,1750,Kolkata,UPI
+ORD0074,2026-01-05,Monitor,Electronics,5,9500,47500,Mumbai,Card
+ORD0075,2026-01-17,Monitor,Electronics,4,9500,38000,Kolkata,Cash
+ORD0076,2026-02-15,Backpack,Accessories,1,1500,1500,Delhi,Card
+ORD0077,2026-02-15,Notebook,Stationery,1,80,80,Bangalore,Card
+ORD0078,2026-01-21,Monitor,Electronics,2,9500,19000,Delhi,Cash
+ORD0079,2026-02-12,Keyboard,Electronics,2,1200,2400,Bangalore,Card
+ORD0080,2026-01-21,Notebook,Stationery,3,80,240,Kolkata,Cash
+ORD0081,2026-01-29,Keyboard,Electronics,4,1200,4800,Delhi,Cash
+ORD0082,2026-01-30,Backpack,Accessories,3,1500,4500,Delhi,UPI
+ORD0083,2026-02-12,Notebook,Stationery,4,80,320,Mumbai,UPI
+ORD0084,2026-03-24,Pen,Stationery,3,20,60,Bangalore,Card
+ORD0085,2026-01-15,Backpack,Accessories,1,1500,1500,Mumbai,UPI
+ORD0086,2026-01-14,Pen,Stationery,1,20,20,Bangalore,Cash
+ORD0087,2026-03-19,Backpack,Accessories,4,1500,6000,Kolkata,Cash
+ORD0088,2026-01-06,Notebook,Stationery,3,80,240,Bangalore,UPI
+ORD0089,2026-02-25,Notebook,Stationery,3,80,240,Kolkata,Card
+ORD0090,2026-02-10,Backpack,Accessories,5,1500,7500,Kolkata,Card
+ORD0091,2026-02-09,Pen,Stationery,5,20,100,Bangalore,Cash
+ORD0092,2026-03-12,Water Bottle,Accessories,3,350,1050,Delhi,UPI
+ORD0093,2026-03-28,Water Bottle,Accessories,4,350,1400,Delhi,Card
+ORD0094,2026-03-12,Pen,Stationery,4,20,80,Kolkata,Cash
+ORD0095,2026-02-25,Pen,Stationery,2,20,40,Mumbai,Cash
+ORD0096,2026-03-28,Headphones,Electronics,4,2200,8800,Delhi,Card
+ORD0097,2026-03-26,Headphones,Electronics,2,2200,4400,Kolkata,Cash
+ORD0098,2026-01-31,Backpack,Accessories,1,1500,1500,Mumbai,UPI
+ORD0099,2026-01-04,Notebook,Stationery,2,80,160,Kolkata,UPI
+ORD0100,2026-01-10,Headphones,Electronics,5,2200,11000,Bangalore,Cash
+ORD0101,2026-03-05,Notebook,Stationery,4,80,320,Bangalore,UPI
+ORD0102,2026-01-14,Monitor,Electronics,1,9500,9500,Bangalore,UPI
+ORD0103,2026-03-01,Monitor,Electronics,5,9500,47500,Kolkata,Card
+ORD0104,2026-02-28,Notebook,Stationery,1,80,80,Delhi,Cash
+ORD0105,2026-03-20,Backpack,Accessories,4,1500,6000,Bangalore,Card
+ORD0106,2026-03-02,Headphones,Electronics,2,2200,4400,Bangalore,Cash
+ORD0107,2026-03-08,Notebook,Stationery,3,80,240,Bangalore,Card
+ORD0108,2026-02-26,Notebook,Stationery,3,80,240,Kolkata,Card
+ORD0109,2026-02-04,Pen,Stationery,2,20,40,Mumbai,Cash
+ORD0110,2026-01-20,Mouse,Electronics,2,650,1300,Delhi,Cash
+ORD0111,2026-01-09,Monitor,Electronics,2,9500,19000,Bangalore,Cash
+ORD0112,2026-03-01,Backpack,Accessories,5,1500,7500,Bangalore,UPI
+ORD0113,2026-02-19,Notebook,Stationery,4,80,320,Kolkata,Card
+ORD0114,2026-01-01,Water Bottle,Accessories,4,350,1400,Mumbai,Cash
+ORD0115,2026-03-10,Water Bottle,Accessories,4,350,1400,Delhi,Cash
+ORD0116,2026-02-25,Notebook,Stationery,3,80,240,Bangalore,UPI
+ORD0117,2026-03-27,Water Bottle,Accessories,3,350,1050,Bangalore,Card
+ORD0118,2026-01-17,Monitor,Electronics,4,9500,38000,Kolkata,Cash
+ORD0119,2026-03-24,Keyboard,Electronics,1,1200,1200,Bangalore,UPI
+ORD0120,2026-01-07,Headphones,Electronics,2,2200,4400,Mumbai,Cash
+ORD0121,2026-02-28,Backpack,Accessories,2,1500,3000,Mumbai,Cash
+ORD0122,2026-02-23,Water Bottle,Accessories,3,350,1050,Mumbai,UPI
+ORD0123,2026-03-11,Headphones,Electronics,1,2200,2200,Kolkata,Cash
+ORD0124,2026-03-25,Notebook,Stationery,1,80,80,Kolkata,UPI
+ORD0125,2026-01-03,Notebook,Stationery,2,80,160,Delhi,UPI
+ORD0126,2026-03-27,Monitor,Electronics,4,9500,38000,Kolkata,Card
+ORD0127,2026-03-31,Notebook,Stationery,4,80,320,Mumbai,Cash
+ORD0128,2026-03-19,Monitor,Electronics,5,9500,47500,Kolkata,UPI
+ORD0129,2026-03-16,Pen,Stationery,1,20,20,Kolkata,Cash
+ORD0130,2026-01-26,Water Bottle,Accessories,4,350,1400,Kolkata,Card
+ORD0131,2026-03-31,Notebook,Stationery,1,80,80,Mumbai,Card
+ORD0132,2026-01-06,Mouse,Electronics,5,650,3250,Mumbai,Card
+ORD0133,2026-01-09,Water Bottle,Accessories,3,350,1050,Mumbai,UPI
+ORD0134,2026-01-14,Water Bottle,Accessories,4,350,1400,Bangalore,Cash
+ORD0135,2026-02-25,Headphones,Electronics,2,2200,4400,Delhi,Card
+ORD0136,2026-03-10,Pen,Stationery,5,20,100,Bangalore,Cash
+ORD0137,2026-02-04,Water Bottle,Accessories,5,350,1750,Mumbai,UPI
+ORD0138,2026-02-27,Mouse,Electronics,3,650,1950,Delhi,Cash
+ORD0139,2026-01-04,Water Bottle,Accessories,3,350,1050,Bangalore,Cash
+ORD0140,2026-01-28,Monitor,Electronics,4,9500,38000,Mumbai,Cash
+ORD0141,2026-03-18,Backpack,Accessories,3,1500,4500,Mumbai,Card
+ORD0142,2026-01-25,Keyboard,Electronics,5,1200,6000,Kolkata,UPI
+ORD0143,2026-03-13,Water Bottle,Accessories,4,350,1400,Delhi,Card
+ORD0144,2026-02-27,Headphones,Electronics,4,2200,8800,Kolkata,UPI
+ORD0145,2026-02-21,Pen,Stationery,2,20,40,Delhi,Cash
+ORD0146,2026-03-12,Backpack,Accessories,4,1500,6000,Mumbai,Cash
+ORD0147,2026-03-31,Backpack,Accessories,3,1500,4500,Bangalore,Cash
+ORD0148,2026-01-30,Pen,Stationery,3,20,60,Kolkata,Card
+ORD0149,2026-01-16,Notebook,Stationery,3,80,240,Delhi,UPI
+ORD0150,2026-02-05,Notebook,Stationery,4,80,320,Mumbai,UPI
+ORD0151,2026-01-30,Notebook,Stationery,3,80,240,Mumbai,UPI
+ORD0152,2026-03-10,Pen,Stationery,1,20,20,Delhi,Cash
+ORD0153,2026-03-12,Keyboard,Electronics,1,1200,1200,Mumbai,Card
+ORD0154,2026-01-14,Monitor,Electronics,4,9500,38000,Kolkata,Card
+ORD0155,2026-03-03,Pen,Stationery,4,20,80,Bangalore,Cash
+ORD0156,2026-02-02,Monitor,Electronics,1,9500,9500,Bangalore,UPI
+ORD0157,2026-03-04,Mouse,Electronics,4,650,2600,Kolkata,Card
+ORD0158,2026-01-20,Keyboard,Electronics,2,1200,2400,Mumbai,UPI
+ORD0159,2026-03-13,Notebook,Stationery,1,80,80,Bangalore,Card
+ORD0160,2026-02-18,Notebook,Stationery,5,80,400,Bangalore,Cash
+ORD0161,2026-02-24,Pen,Stationery,5,20,100,Mumbai,Card
+ORD0162,2026-01-13,Keyboard,Electronics,5,1200,6000,Delhi,Card
+ORD0163,2026-03-26,Notebook,Stationery,3,80,240,Kolkata,UPI
+ORD0164,2026-03-12,Notebook,Stationery,2,80,160,Kolkata,UPI
+ORD0165,2026-02-27,Keyboard,Electronics,4,1200,4800,Bangalore,Cash
+ORD0166,2026-02-06,Keyboard,Electronics,2,1200,2400,Mumbai,Card
+ORD0167,2026-03-29,Headphones,Electronics,1,2200,2200,Delhi,Cash
+ORD0168,2026-01-15,Notebook,Stationery,4,80,320,Delhi,Card
+ORD0169,2026-01-19,Monitor,Electronics,3,9500,28500,Kolkata,UPI
+ORD0170,2026-03-18,Monitor,Electronics,3,9500,28500,Mumbai,Cash
+ORD0171,2026-03-30,Mouse,Electronics,4,650,2600,Mumbai,Card
+ORD0172,2026-03-06,Water Bottle,Accessories,3,350,1050,Bangalore,Cash
+ORD0173,2026-01-06,Mouse,Electronics,5,650,3250,Bangalore,Card
+ORD0174,2026-02-02,Backpack,Accessories,5,1500,7500,Kolkata,UPI
+ORD0175,2026-03-17,Notebook,Stationery,5,80,400,Kolkata,Card
+ORD0176,2026-01-06,Pen,Stationery,5,20,100,Delhi,Cash
+ORD0177,2026-01-24,Headphones,Electronics,3,2200,6600,Bangalore,Card
+ORD0178,2026-03-02,Headphones,Electronics,1,2200,2200,Mumbai,Cash
+ORD0179,2026-03-27,Backpack,Accessories,3,1500,4500,Kolkata,UPI
+ORD0180,2026-03-30,Backpack,Accessories,4,1500,6000,Bangalore,Cash
+ORD0181,2026-01-05,Water Bottle,Accessories,5,350,1750,Bangalore,UPI
+ORD0182,2026-02-11,Backpack,Accessories,3,1500,4500,Kolkata,Cash
+ORD0183,2026-03-01,Keyboard,Electronics,5,1200,6000,Bangalore,UPI
+ORD0184,2026-02-16,Notebook,Stationery,5,80,400,Bangalore,Card
+ORD0185,2026-01-27,Headphones,Electronics,1,2200,2200,Mumbai,Card
+ORD0186,2026-02-26,Monitor,Electronics,3,9500,28500,Bangalore,UPI
+ORD0187,2026-01-31,Keyboard,Electronics,5,1200,6000,Delhi,Cash
+ORD0188,2026-02-22,Keyboard,Electronics,5,1200,6000,Kolkata,UPI
+ORD0189,2026-01-16,Mouse,Electronics,4,650,2600,Delhi,Cash
+ORD0190,2026-02-04,Pen,Stationery,5,20,100,Bangalore,Cash
+ORD0191,2026-02-28,Headphones,Electronics,2,2200,4400,Delhi,Cash
+ORD0192,2026-03-07,Notebook,Stationery,5,80,400,Delhi,UPI
+ORD0193,2026-02-13,Pen,Stationery,4,20,80,Mumbai,UPI
+ORD0194,2026-03-17,Pen,Stationery,3,20,60,Bangalore,UPI
+ORD0195,2026-03-03,Headphones,Electronics,5,2200,11000,Mumbai,Cash
+ORD0196,2026-02-11,Water Bottle,Accessories,4,350,1400,Delhi,Card
+ORD0197,2026-02-19,Notebook,Stationery,5,80,400,Delhi,Cash
+ORD0198,2026-03-02,Keyboard,Electronics,3,1200,3600,Bangalore,Cash
+ORD0199,2026-01-05,Monitor,Electronics,4,9500,38000,Delhi,Card
+ORD0200,2026-02-26,Backpack,Accessories,1,1500,1500,Kolkata,Card
+ORD0005,2026-02-23,Notebook,Stationery,5,80,400,Delhi,Cash
+ORD0015,2026-02-01,Monitor,Electronics,5,9500,47500,Delhi,Cash
